@@ -1,0 +1,7 @@
+# Bare minimal Travis CI configuration file.
+#
+# Configuration can now be easily customized using Travis CI Web UI custom
+# triggered builds.
+#
+
+language: shell
