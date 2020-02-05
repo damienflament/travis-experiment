@@ -5,3 +5,8 @@
 #
 
 language: shell
+
+# Prevent email notifications about failed builds because it is an
+# experimentation repository.
+notifications:
+  email: false
