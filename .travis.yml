@@ -6,6 +6,10 @@
 
 language: shell
 
+# Do not clone the Git repository because nothing is usefull
+git:
+  clone: false
+
 # Prevent email notifications about failed builds because it is an
 # experimentation repository.
 notifications:
